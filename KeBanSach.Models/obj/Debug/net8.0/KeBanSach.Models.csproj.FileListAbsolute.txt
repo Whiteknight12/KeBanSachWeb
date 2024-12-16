@@ -1,0 +1,5 @@
+C:\Users\MINH QUANG\source\repos\KeBanSach\KeBanSach.Models\obj\Debug\net8.0\KeBanSach.Models.csproj.AssemblyReference.cache
+C:\Users\MINH QUANG\source\repos\KeBanSach\KeBanSach.Models\obj\Debug\net8.0\KeBanSach.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINH QUANG\source\repos\KeBanSach\KeBanSach.Models\obj\Debug\net8.0\KeBanSach.Models.AssemblyInfoInputs.cache
+C:\Users\MINH QUANG\source\repos\KeBanSach\KeBanSach.Models\obj\Debug\net8.0\KeBanSach.Models.AssemblyInfo.cs
+C:\Users\MINH QUANG\source\repos\KeBanSach\KeBanSach.Models\obj\Debug\net8.0\KeBanSach.Models.csproj.CoreCompileInputs.cache

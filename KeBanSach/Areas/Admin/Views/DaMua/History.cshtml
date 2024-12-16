@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SellCanvas>
+
+<div class="container mt-4">
+    <h2 class="text-center">Lịch sử bán hàng</h2>
+    <p class="text-muted text-center">Dưới đây là danh sách lịch sử bán hàng của bạn</p>
+
+    <div class="table-responsive mt-4">
+        <table class="table table-bordered table-striped table-hover" style="background-color: aqua">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Id Sản Phẩm</th>
+                    <th>Id Danh Mục</th>
+                    <th>Số Lượng Bán</th>
+                    <th>Thời Gian Bán</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+
+                {
+                    <tr>
+                        <td colspan="5" class="text-center text-muted">Không có lịch sử bán hàng nào.</td>
+                    </tr>
+                }
+
+                else
+
+                {
+                    int index = 1;
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@index</td>
+                            <td>@item.spid</td>
+                            <td>@item.dmid</td>
+                            <td>@item.Number</td>
+                            <td>@item.Time</td>
+                        </tr>
+                        index++;
+                    }
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

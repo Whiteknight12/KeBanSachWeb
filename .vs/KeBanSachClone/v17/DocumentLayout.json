@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINH QUANG\\Downloads\\KeBanSachClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\downloads\\kebansachclone\\kebansach\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\downloads\\kebansachclone\\kebansach\\areas\\customer\\views\\home\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\customer\\views\\home\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\Downloads\\KeBanSachClone\\KeBanSach\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MINH QUANG\\Downloads\\KeBanSachClone\\KeBanSach\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KeBanSach\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T19:08:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\Downloads\\KeBanSachClone\\KeBanSach\\Areas\\Customer\\Views\\Home\\All.cshtml",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Customer\\Views\\Home\\All.cshtml",
+              "ToolTip": "C:\\Users\\MINH QUANG\\Downloads\\KeBanSachClone\\KeBanSach\\Areas\\Customer\\Views\\Home\\All.cshtml",
+              "RelativeToolTip": "KeBanSach\\Areas\\Customer\\Views\\Home\\All.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T18:56:04.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

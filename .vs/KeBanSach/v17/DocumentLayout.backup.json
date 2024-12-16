@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\source\\repos\\kebansach\\kebansach\\areas\\admin\\controllers\\damuacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\admin\\controllers\\damuacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\source\\repos\\kebansach\\kebansach\\areas\\admin\\views\\damua\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\admin\\views\\damua\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\source\\repos\\kebansach\\kebansach\\areas\\admin\\controllers\\sellcanvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\admin\\controllers\\sellcanvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\source\\repos\\kebansach\\kebansach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\source\\repos\\kebansach\\kebansach\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|c:\\users\\minh quang\\source\\repos\\kebansach\\kebansach\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85CA1D1-F4EB-472B-8E3C-E73CC8BDF190}|KeBanSach\\KeBanSach.csproj|solutionrelative:kebansach\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KeBanSach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KeBanSach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:12:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Views\\DaMua\\History.cshtml",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Admin\\Views\\DaMua\\History.cshtml",
+              "ToolTip": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Views\\DaMua\\History.cshtml",
+              "RelativeToolTip": "KeBanSach\\Areas\\Admin\\Views\\DaMua\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T08:05:56.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DaMuaController.cs",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Controllers\\DaMuaController.cs",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Admin\\Controllers\\DaMuaController.cs",
+              "ToolTip": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Controllers\\DaMuaController.cs",
+              "RelativeToolTip": "KeBanSach\\Areas\\Admin\\Controllers\\DaMuaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:02:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "KeBanSach\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAwAQBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:16:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "KeBanSach\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T06:53:37.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SellCanvasController.cs",
+              "DocumentMoniker": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Controllers\\SellCanvasController.cs",
+              "RelativeDocumentMoniker": "KeBanSach\\Areas\\Admin\\Controllers\\SellCanvasController.cs",
+              "ToolTip": "C:\\Users\\MINH QUANG\\source\\repos\\KeBanSach\\KeBanSach\\Areas\\Admin\\Controllers\\SellCanvasController.cs",
+              "RelativeToolTip": "KeBanSach\\Areas\\Admin\\Controllers\\SellCanvasController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:33:43.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
